@@ -1,1 +1,1 @@
-    return range.reduce((multiple, curr) => lcm(multiple, curr));
+00110 1101100 1101111 1110111");
